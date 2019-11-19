@@ -1,0 +1,17 @@
+C:\Users\Junior\source\repos\MVCCAPAS\Infraestructure\bin\Release\Infraestructure.dll.config
+C:\Users\Junior\source\repos\MVCCAPAS\Infraestructure\bin\Release\Infraestructure.dll
+C:\Users\Junior\source\repos\MVCCAPAS\Infraestructure\bin\Release\Infraestructure.pdb
+C:\Users\Junior\source\repos\MVCCAPAS\Infraestructure\bin\Release\Domain.dll
+C:\Users\Junior\source\repos\MVCCAPAS\Infraestructure\bin\Release\EntityFramework.dll
+C:\Users\Junior\source\repos\MVCCAPAS\Infraestructure\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Junior\source\repos\MVCCAPAS\Infraestructure\bin\Release\Domain.pdb
+C:\Users\Junior\source\repos\MVCCAPAS\Infraestructure\bin\Release\EntityFramework.xml
+C:\Users\Junior\source\repos\MVCCAPAS\Infraestructure\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Junior\source\repos\MVCCAPAS\Infraestructure\obj\Release\Infraestructure.csprojAssemblyReference.cache
+C:\Users\Junior\source\repos\MVCCAPAS\Infraestructure\obj\Release\Infraestructure.Migrations.v1.resources
+C:\Users\Junior\source\repos\MVCCAPAS\Infraestructure\obj\Release\Infraestructure.Migrations.v2.resources
+C:\Users\Junior\source\repos\MVCCAPAS\Infraestructure\obj\Release\Infraestructure.csproj.GenerateResource.cache
+C:\Users\Junior\source\repos\MVCCAPAS\Infraestructure\obj\Release\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Junior\source\repos\MVCCAPAS\Infraestructure\obj\Release\Infraestructure.csproj.CopyComplete
+C:\Users\Junior\source\repos\MVCCAPAS\Infraestructure\obj\Release\Infraestructure.dll
+C:\Users\Junior\source\repos\MVCCAPAS\Infraestructure\obj\Release\Infraestructure.pdb

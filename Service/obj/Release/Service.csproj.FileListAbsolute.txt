@@ -1,0 +1,17 @@
+C:\Users\Junior\source\repos\MVCCAPAS\Service\bin\Release\Service.dll.config
+C:\Users\Junior\source\repos\MVCCAPAS\Service\bin\Release\Service.dll
+C:\Users\Junior\source\repos\MVCCAPAS\Service\bin\Release\Service.pdb
+C:\Users\Junior\source\repos\MVCCAPAS\Service\bin\Release\Domain.dll
+C:\Users\Junior\source\repos\MVCCAPAS\Service\bin\Release\EntityFramework.dll
+C:\Users\Junior\source\repos\MVCCAPAS\Service\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Junior\source\repos\MVCCAPAS\Service\bin\Release\Infraestructure.dll
+C:\Users\Junior\source\repos\MVCCAPAS\Service\bin\Release\Domain.pdb
+C:\Users\Junior\source\repos\MVCCAPAS\Service\bin\Release\Infraestructure.pdb
+C:\Users\Junior\source\repos\MVCCAPAS\Service\bin\Release\Infraestructure.dll.config
+C:\Users\Junior\source\repos\MVCCAPAS\Service\bin\Release\EntityFramework.xml
+C:\Users\Junior\source\repos\MVCCAPAS\Service\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Junior\source\repos\MVCCAPAS\Service\obj\Release\Service.csprojAssemblyReference.cache
+C:\Users\Junior\source\repos\MVCCAPAS\Service\obj\Release\Service.csproj.CoreCompileInputs.cache
+C:\Users\Junior\source\repos\MVCCAPAS\Service\obj\Release\Service.csproj.CopyComplete
+C:\Users\Junior\source\repos\MVCCAPAS\Service\obj\Release\Service.dll
+C:\Users\Junior\source\repos\MVCCAPAS\Service\obj\Release\Service.pdb
